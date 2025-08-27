@@ -90,9 +90,9 @@ My projects have demonstrated significant impact, including:
 
 I'm open to collaboration, job opportunities, and networking. Feel free to reach out to me through:
 
-- Email: [your.email@example.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- GitHub: [github.com/yourusername]
+- Email: contact.heykalsayid@gmail.com
+- LinkedIn: [linkedin.com/in/sayidheykal](linkedin.com/in/sayidheykal)
+- GitHub: [github.com/sayid-alt](github.com/sayid-alt)
 
 ---
 
