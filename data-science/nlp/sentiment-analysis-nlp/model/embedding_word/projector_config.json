@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/sayid-alt/sentiment-analysis-nlp/main/model/embedding_word/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sayid-alt/sentiment-analysis-nlp/main/model/embedding_word/meta.tsv"
+    }
+  ]
+}
