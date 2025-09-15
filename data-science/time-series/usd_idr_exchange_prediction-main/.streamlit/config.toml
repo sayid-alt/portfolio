@@ -1,0 +1,8 @@
+[server]
+enableStaticServing = true
+
+[theme]
+baseFontSize=14
+font="Nunito, sans-serif"
+codeFont="'Space Mono', monospace"
+base="dark"

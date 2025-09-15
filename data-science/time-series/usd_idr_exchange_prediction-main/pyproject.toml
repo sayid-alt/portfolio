@@ -1,0 +1,20 @@
+[project]
+name = "usd-idr-exchange-prediction-main"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "keras>=3.11.3",
+    "keras-tuner>=1.4.7",
+    "matplotlib>=3.10.6",
+    "numpy>=2.2.6",
+    "pandas>=2.3.2",
+    "pipreqs>=0.5.0",
+    "plotly>=6.3.0",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.49.1",
+    "tensorflow>=2.20.0",
+    "watchdog>=6.0.0",
+    "yfinance>=0.2.65",
+]
