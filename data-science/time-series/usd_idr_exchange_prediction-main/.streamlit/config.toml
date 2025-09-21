@@ -5,4 +5,4 @@ enableStaticServing = true
 baseFontSize=14
 font="Nunito, sans-serif"
 codeFont="'Space Mono', monospace"
-base="dark"
+#base="dark"
