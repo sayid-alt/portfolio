@@ -68,6 +68,14 @@ Natural Language Processing project for sentiment analysis of text data.
 
 Time series forecasting and pattern recognition for temporal data.
 
+#### [![USD-IDR Exchange Rate Prediction](https://img.shields.io/badge/Project-USD--IDR_Exchange_Prediction-green)](./data-science/time-series/usd_idr_exchange_prediction-main/)
+
+Deep learning-based time series forecasting for USD to Indonesian Rupiah exchange rates:
+- Dual model approach using LSTM and GRU neural networks
+- Interactive Streamlit dashboard with performance metrics
+- Hyperparameter tuning with Keras Tuner
+- Real-time data fetching with yfinance
+
 ### LLM & AI Projects
 
 #### [![RAG Chat Application](https://img.shields.io/badge/Project-RAG_Chat_Application-purple)](./llm/rag/)
